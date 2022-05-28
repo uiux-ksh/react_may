@@ -1,0 +1,33 @@
+.content{
+    figure{
+        width:100%;
+        height: 300px;
+        background-color: gray;
+    }
+    >.inner{
+      width:1180px;
+      min-height: 400px;
+      margin:100px auto;
+      position:relative;
+      transform: translateY(100px);
+      opacity: 0;
+      transition: 1s;
+
+    }
+    &.on{
+      >.inner {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    
+    }
+}
+
+//table
+@media screen and (max-width: $mp) {
+	.content {
+		figre {
+			height: 150px;
+		}
+	}
+}
