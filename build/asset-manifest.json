@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_may/static/css/main.ffe4f624.css",
+    "main.js": "/react_may/static/js/main.79db11b6.js",
+    "index.html": "/react_may/index.html",
+    "main.ffe4f624.css.map": "/react_may/static/css/main.ffe4f624.css.map",
+    "main.79db11b6.js.map": "/react_may/static/js/main.79db11b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe4f624.css",
+    "static/js/main.79db11b6.js"
+  ]
+}

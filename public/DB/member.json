@@ -1,0 +1,29 @@
+{
+    "members":[
+        {
+            "name":"Julia",
+            "position":"CEO",
+            "pic":"member1.jpg"
+        },
+        {
+            "name":"David",
+            "position":"Vice Presodant",
+            "pic":"member2.jpg"
+        },
+        {
+            "name":"Emily",
+            "position":"Back-end",
+            "pic":"member3.jpg"
+        },
+        {
+            "name":"Paul",
+            "position":"Front-end",
+            "pic":"member4.jpg"
+        },
+        {
+            "name":"Peter",
+            "position":"UI Desinger",
+            "pic":"member5.jpg"
+        }
+    ]
+}
